@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Accustomed Tree Spade",
+    "phone": "+14059218948",
+    "category": "tree service",
+    "city": "Oklahoma City",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "tree-service-mountain-bold",
+      "categoryGroup": "tree-service",
+      "name": "Mountain Bold",
+      "recipeFile": "tree-service/mountain-bold.astro",
+      "colors": {
+        "primary": "#052E16",
+        "primaryDark": "#04200f",
+        "primaryLight": "#c1cbc5",
+        "secondary": "#166534",
+        "accent": "#84CC16",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#052E16",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "tree-service/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Oklahoma City Tree Care Experts",
+      "heroSubline": "Accustomed Tree Spade provides expert tree services throughout the OKC metro. We're committed to healthy trees and happy customers.",
+      "aboutTitle": "About Accustomed Tree Spade",
+      "aboutText": [
+        "Accustomed Tree Spade was founded over a decade ago by lifelong Oklahoma City resident, Jake Miller. Jake saw a need for reliable, knowledgeable tree care in the rapidly growing metro area. What started as a small operation has grown into a trusted name for homeowners and businesses alike.",
+        "At Accustomed Tree Spade, we believe in a proactive approach to tree care. We focus on preventative measures to ensure the long-term health and beauty of your trees. Our team is committed to using the safest and most effective techniques.",
+        "We are proud to serve the Oklahoma City community. We actively support local initiatives and are dedicated to preserving our urban forest for future generations. We understand the unique challenges posed by Oklahoma's climate and soil conditions."
+      ],
+      "valueProps": [
+        {
+          "title": "Certified Arborists",
+          "description": "Our team includes ISA-certified arborists with extensive knowledge of local tree species and common diseases."
+        },
+        {
+          "title": "Safety First",
+          "description": "We prioritize safety in every project, utilizing proper equipment and techniques to protect your property and our team."
+        },
+        {
+          "title": "Comprehensive Services",
+          "description": "From routine pruning to emergency storm damage cleanup, we offer a full range of tree care solutions."
+        },
+        {
+          "title": "Locally Owned & Operated",
+          "description": "We are a family-owned business deeply rooted in the Oklahoma City community."
+        }
+      ],
+      "ctaHeadline": "Schedule Your Free Tree Assessment",
+      "ctaSubline": "Let our experts assess your trees and provide a customized care plan."
+    },
+    "services": [
+      {
+        "slug": "tree-trimming-pruning",
+        "name": "Tree Trimming & Pruning",
+        "shortDescription": "Enhance the health and appearance of your trees with our expert trimming and pruning services.",
+        "description": "Regular tree trimming and pruning are essential for maintaining the health, safety, and aesthetic appeal of your landscape. Accustomed Tree Spade offers professional trimming and pruning services tailored to the specific needs of your trees. Our certified arborists understand the unique growth habits of Oklahoma tree species and employ proper techniques to promote healthy growth, improve air circulation, and reduce the risk of disease and pest infestations.\n\nWe carefully assess each tree to identify and remove dead, diseased, or damaged branches. We also strategically prune to improve the tree's structure, shape, and overall appearance. Whether you need routine maintenance or specialized pruning for fruit trees or ornamental species, our team has the expertise to deliver exceptional results. Our pruning services also help to mitigate risks associated with Oklahoma's severe weather, like ice storms, by removing weak or overextended limbs.\n\nWe adhere to ANSI A300 pruning standards and prioritize the long-term health and well-being of your trees. After trimming and pruning, we ensure that all debris is removed, leaving your property clean and tidy.",
+        "process": [
+          "Step 1: On-site assessment by a certified arborist",
+          "Step 2: Development of a customized trimming/pruning plan",
+          "Step 3: Careful and precise branch removal using industry-best practices",
+          "Step 4: Thorough cleanup and debris removal"
+        ],
+        "benefits": [
+          "Improved tree health and vitality",
+          "Enhanced aesthetic appeal",
+          "Reduced risk of storm damage",
+          "Increased sunlight penetration and air circulation"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my trees trimmed?",
+            "answer": "The frequency of trimming depends on the species, age, and health of your trees. Generally, mature trees benefit from pruning every 3-5 years, while younger trees may require more frequent attention. We can assess your trees and recommend a suitable trimming schedule."
+          },
+          {
+            "question": "What is the difference between trimming and pruning?",
+            "answer": "Trimming generally refers to the removal of small branches and twigs to maintain shape and appearance. Pruning, on the other hand, involves more strategic branch removal to improve tree health, structure, or safety. Both are important aspects of tree care."
+          },
+          {
+            "question": "Will trimming hurt my trees?",
+            "answer": "When performed correctly by a qualified arborist, trimming should not harm your trees. In fact, proper pruning can promote healthy growth and extend the lifespan of your trees."
+          }
+        ]
+      },
+      {
+        "slug": "tree-removal",
+        "name": "Tree Removal",
+        "shortDescription": "Safely and efficiently remove unwanted or hazardous trees from your property.",
+        "description": "Sometimes, tree removal becomes necessary due to disease, severe damage from Oklahoma storms, or interference with construction. Accustomed Tree Spade provides safe and efficient tree removal services for residential and commercial properties in Oklahoma City. Our experienced team utilizes specialized equipment and techniques to minimize the impact on your property and surrounding landscape.\n\nWe carefully assess each situation to determine the safest and most effective removal method. We take into account factors such as tree size, location, proximity to structures, and potential hazards. Our team is skilled in handling even the most challenging tree removals, including those near power lines or buildings. We are fully insured and adhere to strict safety protocols to protect your property and our team.\n\nFollowing tree removal, we offer stump grinding services to eliminate unsightly stumps and prevent regrowth. We can also provide land clearing services for new construction or landscaping projects. We handle all aspects of the removal process, from obtaining necessary permits to disposing of debris responsibly.",
+        "process": [
+          "Step 1: Comprehensive site assessment and hazard evaluation",
+          "Step 2: Secure necessary permits (if required)",
+          "Step 3: Safe and controlled tree felling or dismantling",
+          "Step 4: Stump grinding and debris removal"
+        ],
+        "benefits": [
+          "Elimination of hazardous trees",
+          "Prevention of property damage",
+          "Improved aesthetics",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit to remove a tree?",
+            "answer": "Depending on the size and location of the tree, a permit may be required. We can help you determine if a permit is necessary and assist with the application process."
+          },
+          {
+            "question": "How much does tree removal cost?",
+            "answer": "The cost of tree removal depends on several factors, including tree size, location, accessibility, and the presence of hazards. We offer free estimates to provide you with an accurate price."
+          },
+          {
+            "question": "What happens to the tree after it's removed?",
+            "answer": "We are committed to environmentally responsible disposal practices. We recycle tree debris whenever possible, either by chipping it for mulch or using it for other landscaping purposes."
+          }
+        ]
+      },
+      {
+        "slug": "stump-grinding",
+        "name": "Stump Grinding",
+        "shortDescription": "Remove unsightly tree stumps quickly and effectively with our professional stump grinding services.",
+        "description": "Leftover tree stumps can be unsightly, hazardous, and attract pests. Accustomed Tree Spade offers professional stump grinding services to completely remove tree stumps and restore your landscape. Our powerful stump grinders efficiently grind stumps below ground level, allowing you to reclaim your yard for planting, landscaping, or other purposes.\n\nWe utilize specialized equipment to minimize disturbance to your surrounding landscape. Our experienced operators carefully grind the stump into small wood chips, which can be used as mulch or removed from the site. We offer stump grinding services for all sizes of stumps, from small shrubs to large trees. \n\nAfter stump grinding, we thoroughly clean the area and fill the hole with topsoil, preparing it for new planting or landscaping. Our stump grinding services are a cost-effective way to improve the appearance and usability of your property.",
+        "process": [
+          "Step 1: Site preparation and utility marking",
+          "Step 2: Stump grinding to the desired depth",
+          "Step 3: Removal of wood chips (optional)",
+          "Step 4: Filling the hole with topsoil"
+        ],
+        "benefits": [
+          "Elimination of unsightly stumps",
+          "Prevention of pest infestations",
+          "Improved landscape aesthetics",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How deep will you grind the stump?",
+            "answer": "We typically grind stumps 6-12 inches below ground level, but we can adjust the depth to meet your specific needs."
+          },
+          {
+            "question": "What happens to the wood chips?",
+            "answer": "You can choose to keep the wood chips for use as mulch, or we can remove them from the site."
+          },
+          {
+            "question": "Will stump grinding damage my lawn?",
+            "answer": "We take precautions to minimize damage to your lawn during stump grinding. We use protective mats and carefully operate the equipment to avoid unnecessary disturbance."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-tree-service",
+        "name": "Emergency Tree Service",
+        "shortDescription": "24/7 emergency tree services for storm damage, fallen trees, and other urgent situations.",
+        "description": "Oklahoma's unpredictable weather can cause significant damage to trees, leading to fallen limbs, uprooted trees, and other hazardous situations. Accustomed Tree Spade offers 24/7 emergency tree services to address urgent tree-related issues. Our rapid response team is equipped to handle storm damage, fallen trees, and other emergencies that threaten your safety or property.\n\nWe prioritize safety in all emergency situations. Our team will quickly assess the situation and take necessary steps to mitigate risks and prevent further damage. We have the equipment and expertise to safely remove fallen trees, clear debris, and stabilize damaged trees. We work closely with insurance companies to ensure a smooth and efficient claims process.\n\nWhether you're dealing with a fallen tree blocking your driveway or a hazardous limb threatening your home, you can rely on Accustomed Tree Spade for prompt and professional emergency tree services. We understand the stress and urgency of these situations, and we are committed to providing reliable assistance when you need it most.",
+        "process": [
+          "Step 1: Immediate response to your emergency call",
+          "Step 2: Rapid on-site assessment and hazard evaluation",
+          "Step 3: Safe and efficient tree removal or stabilization",
+          "Step 4: Debris removal and site cleanup"
+        ],
+        "benefits": [
+          "24/7 availability",
+          "Rapid response time",
+          "Safe and efficient service",
+          "Mitigation of hazardous situations"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a tree emergency?",
+            "answer": "A tree emergency is any situation that poses an immediate threat to safety or property, such as a fallen tree blocking a roadway, a damaged tree threatening to fall on a house, or a large limb hanging precariously over a power line."
+          },
+          {
+            "question": "How quickly can you respond to an emergency?",
+            "answer": "We strive to respond to emergency calls as quickly as possible, typically within a few hours, depending on the severity of the situation and our current workload."
+          },
+          {
+            "question": "Will my insurance cover emergency tree service?",
+            "answer": "In many cases, homeowner's insurance will cover emergency tree service, especially if the damage was caused by a covered peril such as wind or hail. We can work with your insurance company to help you navigate the claims process."
+          }
+        ]
+      },
+      {
+        "slug": "tree-planting",
+        "name": "Tree Planting",
+        "shortDescription": "Enhance your landscape with professionally planted trees that thrive in Oklahoma's climate.",
+        "description": "Planting new trees is a great way to enhance the beauty and value of your property. Accustomed Tree Spade offers professional tree planting services to ensure that your new trees get off to a healthy start. We can help you select the right tree species for your soil conditions, climate, and aesthetic preferences.\n\nWe carefully prepare the planting site, ensuring proper drainage and nutrient availability. We use proper planting techniques to promote healthy root development and long-term growth. We also provide ongoing care tips to help you maintain the health and vitality of your new trees.\n\nWhether you're looking to add shade to your yard, create a privacy screen, or simply enhance the beauty of your landscape, Accustomed Tree Spade can help you choose and plant the perfect trees for your needs. We source our trees from reputable nurseries and guarantee their health and quality.",
+        "process": [
+          "Step 1: Consultation to determine the best tree species for your property",
+          "Step 2: Site preparation and soil amendment",
+          "Step 3: Proper planting techniques to ensure healthy root development",
+          "Step 4: Watering and mulching to promote growth"
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced landscape aesthetics",
+          "Improved air quality",
+          "Shade and privacy"
+        ],
+        "faq": [
+          {
+            "question": "What is the best time of year to plant a tree?",
+            "answer": "The best time to plant a tree in Oklahoma is typically in the fall or early spring, when temperatures are mild and the soil is moist."
+          },
+          {
+            "question": "How do I choose the right tree for my property?",
+            "answer": "We can help you select the right tree species based on your soil conditions, climate, sunlight exposure, and aesthetic preferences."
+          },
+          {
+            "question": "How much does tree planting cost?",
+            "answer": "The cost of tree planting depends on the size and species of the tree, as well as the amount of site preparation required. We offer free estimates to provide you with an accurate price."
+          }
+        ]
+      },
+      {
+        "slug": "arborist-consultation",
+        "name": "Arborist Consultation",
+        "shortDescription": "Get expert advice on tree health, disease diagnosis, and preventative care from our certified arborists.",
+        "description": "Accustomed Tree Spade offers arborist consultation services to help you make informed decisions about your tree care. Our certified arborists have the knowledge and expertise to diagnose tree diseases, identify potential hazards, and develop customized care plans to maintain the health and beauty of your trees.\n\nDuring an arborist consultation, we will thoroughly assess your trees, evaluate their overall health, and identify any signs of disease or pest infestation. We will provide you with a detailed report outlining our findings and recommendations. We can also advise you on proper pruning techniques, fertilization, and other preventative measures.\n\nWhether you're concerned about a specific tree or simply want to ensure the long-term health of your entire landscape, an arborist consultation from Accustomed Tree Spade can provide you with valuable insights and guidance.",
+        "process": [
+          "Step 1: Schedule an on-site consultation with a certified arborist",
+          "Step 2: Thorough assessment of your trees and landscape",
+          "Step 3: Detailed report outlining findings and recommendations",
+          "Step 4: Customized care plan to address your specific needs"
+        ],
+        "benefits": [
+          "Expert diagnosis of tree diseases and pests",
+          "Identification of potential hazards",
+          "Customized care plans",
+          "Improved tree health and longevity"
+        ],
+        "faq": [
+          {
+            "question": "What is a certified arborist?",
+            "answer": "A certified arborist is a tree care professional who has passed a rigorous examination and demonstrated a high level of knowledge and expertise in all aspects of arboriculture."
+          },
+          {
+            "question": "When should I consult with an arborist?",
+            "answer": "You should consult with an arborist if you notice any signs of disease or pest infestation, if you are concerned about the safety of a tree, or if you simply want to ensure the long-term health and beauty of your trees."
+          },
+          {
+            "question": "How much does an arborist consultation cost?",
+            "answer": "The cost of an arborist consultation depends on the scope of the assessment and the amount of time required. We offer competitive rates and can provide you with a quote upfront."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Oklahoma City",
+        "slug": "oklahoma-city-ok",
+        "state": "OK",
+        "content": "Accustomed Tree Spade is proud to offer comprehensive tree services in Oklahoma City, the heart of Oklahoma. From routine tree trimming and pruning to emergency storm damage cleanup and tree removal, our certified arborists are equipped to handle all your tree care needs. We understand the unique challenges faced by homeowners and businesses in OKC, including the impact of Oklahoma's weather on tree health.",
+        "localContext": "Oklahoma City is known for its vibrant urban center, historical districts, and susceptibility to severe weather events that can impact trees.",
+        "nearbyAreas": [
+          "Edmond",
+          "Moore",
+          "Norman"
+        ]
+      },
+      {
+        "city": "Edmond",
+        "slug": "edmond-ok",
+        "state": "OK",
+        "content": "Accustomed Tree Spade provides expert tree care services to the residents and businesses of Edmond, Oklahoma. Our services include tree trimming, tree removal, stump grinding, and tree health assessments. We are committed to preserving the beauty and health of Edmond's urban forest.",
+        "localContext": "Edmond is a thriving suburban community north of Oklahoma City, known for its well-maintained landscapes and mature trees.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Guthrie",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Norman",
+        "slug": "norman-ok",
+        "state": "OK",
+        "content": "Accustomed Tree Spade is your trusted partner for all your tree care needs in Norman, Oklahoma. We offer a full range of services, including tree pruning, tree removal, stump removal, and emergency tree services. Our experienced team is dedicated to providing top-quality service and ensuring the health and safety of your trees.",
+        "localContext": "Norman is a vibrant college town and home to the University of Oklahoma, characterized by its beautiful parks and residential areas with established trees.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Moore",
+          "Purcell"
+        ]
+      },
+      {
+        "city": "Moore",
+        "slug": "moore-ok",
+        "state": "OK",
+        "content": "Accustomed Tree Spade offers professional tree services to the residents and businesses of Moore, Oklahoma. We specialize in tree trimming, tree removal, stump grinding, and storm damage cleanup. We understand the importance of maintaining healthy trees in Moore, especially in light of the region's history of severe weather.",
+        "localContext": "Moore is a growing city south of Oklahoma City, known for its strong community spirit and resilience in the face of challenging weather events.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Norman",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Yukon",
+        "slug": "yukon-ok",
+        "state": "OK",
+        "content": "Accustomed Tree Spade provides reliable tree care services in Yukon, Oklahoma. Our services include tree trimming, tree removal, stump grinding, and tree health assessments. We are committed to helping Yukon residents maintain the beauty and health of their trees.",
+        "localContext": "Yukon is a city west of Oklahoma City with a strong sense of community and a rich agricultural heritage.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Mustang",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Mustang",
+        "slug": "mustang-ok",
+        "state": "OK",
+        "content": "Accustomed Tree Spade is dedicated to providing exceptional tree care services to the residents of Mustang, Oklahoma. Our team of certified arborists offers a wide range of services, including tree pruning, tree removal, and stump grinding. We understand the specific needs of trees in the Mustang area.",
+        "localContext": "Mustang is a rapidly growing community west of Oklahoma City, known for its family-friendly atmosphere and well-maintained neighborhoods.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Yukon",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Shawnee",
+        "slug": "shawnee-ok",
+        "state": "OK",
+        "content": "Accustomed Tree Spade is proud to serve the tree care needs of Shawnee, Oklahoma. We offer a full range of services including tree trimming, removal, and emergency storm damage assistance. We are committed to preserving the beauty and health of your trees.",
+        "localContext": "Shawnee is a city east of Oklahoma City, known for its historical significance and strong community bonds.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Tecumseh",
+          "Seminole"
+        ]
+      },
+      {
+        "city": "Stillwater",
+        "slug": "stillwater-ok",
+        "state": "OK",
+        "content": "Accustomed Tree Spade provides professional tree care services to the residents and businesses of Stillwater, Oklahoma. We offer a full range of services, including tree trimming, tree removal, stump removal, and emergency tree services. Our experienced team is dedicated to providing top-quality service and ensuring the health and safety of your trees.",
+        "localContext": "Stillwater is a vibrant college town and home to Oklahoma State University, characterized by its beautiful parks and residential areas with established trees.",
+        "nearbyAreas": [
+          "Perry",
+          "Cushing",
+          "Guthrie"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Tree Trimming",
+        "text": "Accustomed Tree Spade did an amazing job trimming our large oak tree. They were professional, efficient, and left our yard cleaner than they found it! Highly recommend.",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Tree Removal",
+        "text": "Had a large, dying elm tree removed from my property. The crew was careful and took great care to protect my fence and surrounding landscaping. Great service!",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Lisa P.",
+        "rating": 5,
+        "service": "Stump Grinding",
+        "text": "I had two ugly stumps in my backyard that were attracting pests. Accustomed Tree Spade ground them down quickly and efficiently. Now I can finally plant a garden!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Emergency Tree Service",
+        "text": "A huge branch fell on my roof during a storm. Accustomed Tree Spade came out in the middle of the night and removed it. They were lifesavers!",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 4,
+        "service": "Tree Planting",
+        "text": "ATS helped us select and plant several new trees in our backyard. They gave us great advice on which trees would thrive in our soil type. The trees look great!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Mike S.",
+        "rating": 5,
+        "service": "Arborist Consultation",
+        "text": "I was concerned about a strange growth on my maple tree. The arborist from Accustomed Tree Spade was very knowledgeable and put my mind at ease. He gave me great advice on how to care for my tree.",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Accustomed Tree Spade | OKC Tree Service",
+        "description": "Expert tree trimming, removal, & emergency services in Oklahoma City, OK. Certified arborists. Free quotes!"
+      },
+      "about": {
+        "title": "About Us | Accustomed Tree Spade OKC",
+        "description": "Learn about Accustomed Tree Spade in Oklahoma City. Our commitment to expert tree care and community service."
+      },
+      "services": {
+        "title": "Tree Services | Accustomed Tree Spade OKC",
+        "description": "Comprehensive tree services in Oklahoma City: trimming, removal, stump grinding, emergency service & more."
+      },
+      "contact": {
+        "title": "Contact Us | Accustomed Tree Spade OKC",
+        "description": "Contact Accustomed Tree Spade for tree service in Oklahoma City. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Reviews | Accustomed Tree Spade OKC",
+        "description": "Read reviews for Accustomed Tree Spade in Oklahoma City. See what our customers are saying!"
+      },
+      "service-areas": {
+        "title": "Service Areas | Accustomed Tree Spade",
+        "description": "Areas served by Accustomed Tree Spade in Oklahoma City and surrounding communities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "tree-trimming-pruning": "/images/service-tree-trimming-pruning.webp",
+      "tree-removal": "/images/service-tree-removal.webp",
+      "stump-grinding": "/images/service-stump-grinding.webp",
+      "emergency-tree-service": "/images/service-emergency-tree-service.webp",
+      "tree-planting": "/images/service-tree-planting.webp",
+      "arborist-consultation": "/images/service-arborist-consultation.webp"
+    },
+    "servicesResponsive": {
+      "tree-trimming-pruning": {
+        "src": "/images/service-tree-trimming-pruning.webp",
+        "srcset": "/images/service-tree-trimming-pruning-400w.webp 400w, /images/service-tree-trimming-pruning-800w.webp 800w, /images/service-tree-trimming-pruning-1200w.webp 1200w, /images/service-tree-trimming-pruning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tree-removal": {
+        "src": "/images/service-tree-removal.webp",
+        "srcset": "/images/service-tree-removal-400w.webp 400w, /images/service-tree-removal-800w.webp 800w, /images/service-tree-removal-1200w.webp 1200w, /images/service-tree-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stump-grinding": {
+        "src": "/images/service-stump-grinding.webp",
+        "srcset": "/images/service-stump-grinding-400w.webp 400w, /images/service-stump-grinding-800w.webp 800w, /images/service-stump-grinding-1200w.webp 1200w, /images/service-stump-grinding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-tree-service": {
+        "src": "/images/service-emergency-tree-service.webp",
+        "srcset": "/images/service-emergency-tree-service-400w.webp 400w, /images/service-emergency-tree-service-800w.webp 800w, /images/service-emergency-tree-service-1200w.webp 1200w, /images/service-emergency-tree-service.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tree-planting": {
+        "src": "/images/service-tree-planting.webp",
+        "srcset": "/images/service-tree-planting-400w.webp 400w, /images/service-tree-planting-800w.webp 800w, /images/service-tree-planting-1200w.webp 1200w, /images/service-tree-planting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "arborist-consultation": {
+        "src": "/images/service-arborist-consultation.webp",
+        "srcset": "/images/service-arborist-consultation-400w.webp 400w, /images/service-arborist-consultation-800w.webp 800w, /images/service-arborist-consultation-1200w.webp 1200w, /images/service-arborist-consultation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
